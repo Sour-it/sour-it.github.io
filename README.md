@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sour-it" alt="sour-it" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python, Java, Android Development**
 
-- 💬 Ask me about **Cricket, Coding, Chess**
+- 💬 Ask me about **Cricket, Coding, Chess, Music**
 
 - 📫 How to reach me **kumarsourabh755@gmail.com**
 
-- ⚡ Fun fact **I think I am boring.**
+- ⚡ Fun fact **I am boring.**
 
 -	:beginner: Here is my simple <a href="https://sour-it.github.io/sourabh.github.io/"> Portfolio </a> Website.
 
